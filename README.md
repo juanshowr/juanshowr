@@ -20,7 +20,6 @@ We manufacture children's clothing using 100% Colombian materials. We help child
 
 🌱 I’m currently learning coding (Python, Node Js, Vue Js, Java, Javascript, MongoDB) because I want to be a Full Stack Marketer and a Data Scientist.
 
-
 💬 Ask me about digital marketing, entrepreneurship, sustainability, telecommunications and social projects.
 
 📫 How to reach me: 
@@ -31,10 +30,12 @@ We manufacture children's clothing using 100% Colombian materials. We help child
 Follow me in my social networks:
 
 https://www.linkedin.com/in/juan-camilo-rodriguez-echeverria/
+
 https://www.facebook.com/juancamilorodriguezecheverria
+
 https://www.instagram.com/juancamilorodriguezecheverria/
 
-
+I speak English, Spanish and Portuguese, so we can communicate in any of those languages.
 
 
 
